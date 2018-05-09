@@ -31,3 +31,6 @@
 }
 
 /*TAG 7*/
+#wall .parent:last-child {
+  display: none;
+}
