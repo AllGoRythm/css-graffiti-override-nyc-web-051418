@@ -26,7 +26,7 @@
 }
 
 /*TAG 6*/
-#wall {
+#wall .parent {
   display: none;
 }
 
