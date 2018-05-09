@@ -21,7 +21,7 @@
 }
 
 /*TAG 5*/
-#wall .parent div[class="slick"]{
+#wall .parent .[class="slick"]{
   display: none;
 }
 
