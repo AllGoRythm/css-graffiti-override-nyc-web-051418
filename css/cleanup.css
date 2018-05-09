@@ -1,7 +1,7 @@
 /* write your override styles here */
 
 /*TAG 1*/
-#wall .tag-1 {
+#wall .tag-1 + div{
   display: none;
 }
 
