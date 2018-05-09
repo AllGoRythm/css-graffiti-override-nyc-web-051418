@@ -21,7 +21,9 @@
 }
 
 /*TAG 5*/
-
+#wall .parent .slick {
+  display: none;
+}
 
 /*TAG 6*/
 
