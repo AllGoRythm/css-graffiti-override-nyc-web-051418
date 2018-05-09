@@ -6,7 +6,7 @@
 }
 
 /*TAG 2*/
-#wall #tag-2 {
+a[id="tag-2"] {
   display: none;
 }
 
