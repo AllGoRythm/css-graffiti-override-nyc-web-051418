@@ -16,7 +16,7 @@
 }
 
 /*TAG 4*/
-#wall .parent #tag-4 {
+#wall .parent #tag-4, #tag-5 {
   display: none;
 }
 
