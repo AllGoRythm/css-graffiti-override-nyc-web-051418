@@ -26,8 +26,8 @@
 }
 
 /*TAG 6*/
-/*#wall .parent  {
+#wall .parent:nth-last-child(2) {
   display: none;
-}*/
+}
 
 /*TAG 7*/
